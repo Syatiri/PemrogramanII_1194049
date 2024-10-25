@@ -1,0 +1,7 @@
+D:\Pemrograman 2\Pertemuan 2\P2_1_1194049\bin\Debug\P2_1_1194049.exe.config
+D:\Pemrograman 2\Pertemuan 2\P2_1_1194049\bin\Debug\P2_1_1194049.exe
+D:\Pemrograman 2\Pertemuan 2\P2_1_1194049\bin\Debug\P2_1_1194049.pdb
+D:\Pemrograman 2\Pertemuan 2\P2_1_1194049\obj\Debug\P2_1_1194049.csproj.AssemblyReference.cache
+D:\Pemrograman 2\Pertemuan 2\P2_1_1194049\obj\Debug\P2_1_1194049.csproj.CoreCompileInputs.cache
+D:\Pemrograman 2\Pertemuan 2\P2_1_1194049\obj\Debug\P2_1_1194049.exe
+D:\Pemrograman 2\Pertemuan 2\P2_1_1194049\obj\Debug\P2_1_1194049.pdb

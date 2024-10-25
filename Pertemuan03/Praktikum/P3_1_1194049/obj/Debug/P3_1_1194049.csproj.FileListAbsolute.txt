@@ -1,0 +1,7 @@
+D:\P3_1_1194049\bin\Debug\P3_1_1194049.exe.config
+D:\P3_1_1194049\bin\Debug\P3_1_1194049.exe
+D:\P3_1_1194049\bin\Debug\P3_1_1194049.pdb
+D:\P3_1_1194049\obj\Debug\P3_1_1194049.csproj.AssemblyReference.cache
+D:\P3_1_1194049\obj\Debug\P3_1_1194049.csproj.CoreCompileInputs.cache
+D:\P3_1_1194049\obj\Debug\P3_1_1194049.exe
+D:\P3_1_1194049\obj\Debug\P3_1_1194049.pdb

@@ -1,0 +1,7 @@
+D:\Pertemuan03\Pertemuan03_Tugas\P3_2_1194049\bin\Debug\P3_2_1194049.exe.config
+D:\Pertemuan03\Pertemuan03_Tugas\P3_2_1194049\bin\Debug\P3_2_1194049.exe
+D:\Pertemuan03\Pertemuan03_Tugas\P3_2_1194049\bin\Debug\P3_2_1194049.pdb
+D:\Pertemuan03\Pertemuan03_Tugas\P3_2_1194049\obj\Debug\P3_2_1194049.csproj.AssemblyReference.cache
+D:\Pertemuan03\Pertemuan03_Tugas\P3_2_1194049\obj\Debug\P3_2_1194049.csproj.CoreCompileInputs.cache
+D:\Pertemuan03\Pertemuan03_Tugas\P3_2_1194049\obj\Debug\P3_2_1194049.exe
+D:\Pertemuan03\Pertemuan03_Tugas\P3_2_1194049\obj\Debug\P3_2_1194049.pdb
