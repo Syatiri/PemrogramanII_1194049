@@ -1,0 +1,16 @@
+Jawaban:
+Bagian I
+
+14. Error terjadi karena properti myType di kelas Product_1194049 memiliki tingkat akses yang tidak memperbolehkan akses dari kelas lain, sehingga tidak bisa dibaca atau digunakan di ProductTest_1194049.
+
+19. karena atribut myType tidak diinisialisasi dalam konstruktor Product_1194049, sehingga tetap pada nilai default untuk tipe data string.
+
+24. Karena kita telah menetapkan tipe produk myProduct sebagai "DVD" dan kemudian mencetak nilai tersebut ke layer, maka hasil outputnya adalah DVD.
+
+Bagian II
+
+8. Tipe dan judul buku tidak muncul karena properti tersebut tidak diakses dan diset dengan benar dalam kelas Book_1194049, yang menunjukkan adanya kesalahan dalam penerapan enkapsulasi pada konsep OOP.
+
+12. Tipe dan judul buku sekarang tampil pada output karena properti type dan title dalam kelas Book_1194049 telah diset dan diakses dengan benar di dalam metode DisplayInfo().
+
+19. Objek product2 tidak dibuat seperti product1 karena kelas DVD_1194049 belum digunakan dalam kode, sehingga objek kedua belum diset untuk menampilkan informasi DVD dengan metode yang sesuai.
