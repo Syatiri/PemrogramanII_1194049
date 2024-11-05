@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KULIAH\\Pemrograman II\\Pertemuan05\\Praktikum\\P5_2_1194049\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCD95B-B1E7-448A-BB66-879D1751C26D}|P5_2_1194049\\P5_2_1194049.csproj|d:\\kuliah\\pemrograman ii\\pertemuan05\\praktikum\\p5_2_1194049\\p5_2_1194049\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BCD95B-B1E7-448A-BB66-879D1751C26D}|P5_2_1194049\\P5_2_1194049.csproj|solutionrelative:p5_2_1194049\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCD95B-B1E7-448A-BB66-879D1751C26D}|P5_2_1194049\\P5_2_1194049.csproj|d:\\kuliah\\pemrograman ii\\pertemuan05\\praktikum\\p5_2_1194049\\p5_2_1194049\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2BCD95B-B1E7-448A-BB66-879D1751C26D}|P5_2_1194049\\P5_2_1194049.csproj|solutionrelative:p5_2_1194049\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCD95B-B1E7-448A-BB66-879D1751C26D}|P5_2_1194049\\P5_2_1194049.csproj|d:\\kuliah\\pemrograman ii\\pertemuan05\\praktikum\\p5_2_1194049\\p5_2_1194049\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2BCD95B-B1E7-448A-BB66-879D1751C26D}|P5_2_1194049\\P5_2_1194049.csproj|solutionrelative:p5_2_1194049\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCD95B-B1E7-448A-BB66-879D1751C26D}|P5_2_1194049\\P5_2_1194049.csproj|d:\\kuliah\\pemrograman ii\\pertemuan05\\praktikum\\p5_2_1194049\\p5_2_1194049\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BCD95B-B1E7-448A-BB66-879D1751C26D}|P5_2_1194049\\P5_2_1194049.csproj|solutionrelative:p5_2_1194049\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BCD95B-B1E7-448A-BB66-879D1751C26D}|P5_2_1194049\\P5_2_1194049.csproj|d:\\kuliah\\pemrograman ii\\pertemuan05\\praktikum\\p5_2_1194049\\p5_2_1194049\\parentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BCD95B-B1E7-448A-BB66-879D1751C26D}|P5_2_1194049\\P5_2_1194049.csproj|solutionrelative:p5_2_1194049\\parentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChildForm.cs",
+              "DocumentMoniker": "D:\\KULIAH\\Pemrograman II\\Pertemuan05\\Praktikum\\P5_2_1194049\\P5_2_1194049\\ChildForm.cs",
+              "RelativeDocumentMoniker": "P5_2_1194049\\ChildForm.cs",
+              "ToolTip": "D:\\KULIAH\\Pemrograman II\\Pertemuan05\\Praktikum\\P5_2_1194049\\P5_2_1194049\\ChildForm.cs",
+              "RelativeToolTip": "P5_2_1194049\\ChildForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:33:00.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChildForm.cs [Design]",
+              "DocumentMoniker": "D:\\KULIAH\\Pemrograman II\\Pertemuan05\\Praktikum\\P5_2_1194049\\P5_2_1194049\\ChildForm.cs",
+              "RelativeDocumentMoniker": "P5_2_1194049\\ChildForm.cs",
+              "ToolTip": "D:\\KULIAH\\Pemrograman II\\Pertemuan05\\Praktikum\\P5_2_1194049\\P5_2_1194049\\ChildForm.cs [Design]",
+              "RelativeToolTip": "P5_2_1194049\\ChildForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:09:38.846Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "D:\\KULIAH\\Pemrograman II\\Pertemuan05\\Praktikum\\P5_2_1194049\\P5_2_1194049\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P5_2_1194049\\ParentForm.cs",
+              "ToolTip": "D:\\KULIAH\\Pemrograman II\\Pertemuan05\\Praktikum\\P5_2_1194049\\P5_2_1194049\\ParentForm.cs [Design]",
+              "RelativeToolTip": "P5_2_1194049\\ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:06:38.8Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "D:\\KULIAH\\Pemrograman II\\Pertemuan05\\Praktikum\\P5_2_1194049\\P5_2_1194049\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P5_2_1194049\\ParentForm.cs",
+              "ToolTip": "D:\\KULIAH\\Pemrograman II\\Pertemuan05\\Praktikum\\P5_2_1194049\\P5_2_1194049\\ParentForm.cs",
+              "RelativeToolTip": "P5_2_1194049\\ParentForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAhwB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:50:51.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParentForm.Designer.cs",
+              "DocumentMoniker": "D:\\KULIAH\\Pemrograman II\\Pertemuan05\\Praktikum\\P5_2_1194049\\P5_2_1194049\\ParentForm.Designer.cs",
+              "RelativeDocumentMoniker": "P5_2_1194049\\ParentForm.Designer.cs",
+              "ToolTip": "D:\\KULIAH\\Pemrograman II\\Pertemuan05\\Praktikum\\P5_2_1194049\\P5_2_1194049\\ParentForm.Designer.cs",
+              "RelativeToolTip": "P5_2_1194049\\ParentForm.Designer.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAApwFMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:06:19.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
