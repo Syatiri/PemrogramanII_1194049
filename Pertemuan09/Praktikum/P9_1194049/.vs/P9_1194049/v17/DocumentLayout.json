@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KULIAH\\Pemrograman II\\Pertemuan09\\Praktikum\\P9_1194049\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4670BA-2A7C-4940-A4F7-09DD9309443F}|P9_1194049\\P9_1194049.csproj|d:\\kuliah\\pemrograman ii\\pertemuan09\\praktikum\\p9_1194049\\p9_1194049\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E4670BA-2A7C-4940-A4F7-09DD9309443F}|P9_1194049\\P9_1194049.csproj|solutionrelative:p9_1194049\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4670BA-2A7C-4940-A4F7-09DD9309443F}|P9_1194049\\P9_1194049.csproj|d:\\kuliah\\pemrograman ii\\pertemuan09\\praktikum\\p9_1194049\\p9_1194049\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4670BA-2A7C-4940-A4F7-09DD9309443F}|P9_1194049\\P9_1194049.csproj|solutionrelative:p9_1194049\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4670BA-2A7C-4940-A4F7-09DD9309443F}|P9_1194049\\P9_1194049.csproj|d:\\kuliah\\pemrograman ii\\pertemuan09\\praktikum\\p9_1194049\\p9_1194049\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4670BA-2A7C-4940-A4F7-09DD9309443F}|P9_1194049\\P9_1194049.csproj|solutionrelative:p9_1194049\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\KULIAH\\Pemrograman II\\Pertemuan09\\Praktikum\\P9_1194049\\P9_1194049\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_1194049\\Form1.cs",
+              "ToolTip": "D:\\KULIAH\\Pemrograman II\\Pertemuan09\\Praktikum\\P9_1194049\\P9_1194049\\Form1.cs",
+              "RelativeToolTip": "P9_1194049\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:19:10.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "D:\\KULIAH\\Pemrograman II\\Pertemuan09\\Praktikum\\P9_1194049\\P9_1194049\\Koneksi.cs",
+              "RelativeDocumentMoniker": "P9_1194049\\Koneksi.cs",
+              "ToolTip": "D:\\KULIAH\\Pemrograman II\\Pertemuan09\\Praktikum\\P9_1194049\\P9_1194049\\Koneksi.cs",
+              "RelativeToolTip": "P9_1194049\\Koneksi.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:54:53.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\KULIAH\\Pemrograman II\\Pertemuan09\\Praktikum\\P9_1194049\\P9_1194049\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_1194049\\Form1.cs",
+              "ToolTip": "D:\\KULIAH\\Pemrograman II\\Pertemuan09\\Praktikum\\P9_1194049\\P9_1194049\\Form1.cs [Design]",
+              "RelativeToolTip": "P9_1194049\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:30:39.063Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
